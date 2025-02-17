@@ -209,7 +209,5 @@ static void gpio_irq_handler(uint gpio, uint32_t events) {
 ## Como Executar
 
 1. **Compilar o código** usando o Raspberry Pi Pico SDK.
-2. **Carregar o binário compilado** no Raspberry Pi Pico.
-3. **Conectar o display SSD1306 e o joystick** aos pinos correspondentes no Raspberry Pi Pico.
-4. **Executar o código** e observar a interação com o display e LEDs.
+2. **Carregar o binário compilado** no Raspberry Pi Pico W.
 
